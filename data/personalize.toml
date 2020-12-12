@@ -1,0 +1,30 @@
+Name = "Yuhui Shi"
+
+# Supports markdown
+About = "I am a developer living in the bay area, CA. I have been working as a Algorithm Developer/Researcher for the past couple of years. Most recently, I find my real interest is to build systems but not algorithms, since systems are things people can really use. Algorithms are abstract and only useful if they are embedded or enabled by some systems. So I quitted my full-time job to start to pursue my interest in Software Engineering"
+
+Email = "yuhuishi@umich.edu"
+
+# Add the filename with file extension.
+Resume = ""
+
+# Sets the number of posts to display on the front page
+PostLimit = 4
+
+GoatCounterCode = ""
+
+[[profiles]]
+name = "GitHub"
+url = "https://github.com/Yuhuishishishi"
+
+[[profiles]]
+name = "Twitter"
+url = ""
+
+[[profiles]]
+name = "Goodreads"
+url = ""
+
+[[profiles]]
+name = "LinkedIn"
+url = "yuhuishi.me"
